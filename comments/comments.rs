@@ -1,4 +1,5 @@
 /*
-    Comment
+    Block Comments
 */
-// Comment
+// Line Comments
+#[doc="Comment"]
